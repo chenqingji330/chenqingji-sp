@@ -9,8 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class Sp02ItemserviceApplicationTests {
 
-	@Test
+	@Test//我是陈清吉,你是谁???
 	public void contextLoads() {
+		
 	}
 
 }
